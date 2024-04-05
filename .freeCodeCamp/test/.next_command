@@ -85,3 +85,4 @@ man if
 help if
 ./countdown.sh arg1
 ./countdown.sh afasdg
+./countdown.sh afasdg
