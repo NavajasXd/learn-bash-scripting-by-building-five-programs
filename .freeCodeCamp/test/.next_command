@@ -69,3 +69,7 @@ __vsc_dbg_trap="$(__vsc_get_trap DEBUG)"
 trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 touch countdown.sh
+chmod --help
+chmod -x countdown.sh
+chmod countdown.sh -x
+chmod +x countdown.sh
