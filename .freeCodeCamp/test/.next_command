@@ -73,3 +73,7 @@ chmod --help
 chmod -x countdown.sh
 chmod countdown.sh -x
 chmod +x countdown.sh
+countdown.sh
+/countdown.sh
+__vsc_prompt_cmd_original
+./countdown.sh
