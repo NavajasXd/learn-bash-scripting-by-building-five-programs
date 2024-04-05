@@ -123,3 +123,4 @@ sleep 3
 ./countdown.sh 3
 ./countdown.sh 3
 man echo
+./countdown.sh 1
