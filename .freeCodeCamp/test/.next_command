@@ -156,3 +156,4 @@ help
 rm bingo.sh
 touch bingo.sh
 chmod +x bingo.sh
+./bingo.sh
