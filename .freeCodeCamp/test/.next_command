@@ -155,3 +155,4 @@ del bingo.sh
 help
 rm bingo.sh
 touch bingo.sh
+chmod +x bingo.sh
