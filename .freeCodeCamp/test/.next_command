@@ -191,3 +191,4 @@ declare -p
 delcare -p J
 declare -p J
 declare -p RANDOM
+echo $(( RANDOM % 75 ))
