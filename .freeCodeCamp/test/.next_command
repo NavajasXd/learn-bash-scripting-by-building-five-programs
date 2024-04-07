@@ -344,3 +344,4 @@ type read
 type if
 type then
 type bash
+type psql
