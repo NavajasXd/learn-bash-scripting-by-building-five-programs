@@ -319,3 +319,4 @@ help [[
 [[ "hello world" =~ "lo worl" ]]
 [[ "hello world" =~ "lo worl" ]]
 [[ "hello world" =~ "lo wor" ]]
+[[ "hello world" =~ ^h ]]
